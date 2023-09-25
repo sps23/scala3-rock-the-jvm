@@ -2,4 +2,8 @@
 *.log
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+/.bsp/
+/.idea/
+/project/target/
+/target/
 hs_err_pid*
